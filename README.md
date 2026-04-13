@@ -70,7 +70,7 @@ using Java, Python, and modern JavaScript frameworks.
 | [chat-app](link) | Real-time chat application | TypeScript, WebSockets |
 | [Portfolio](link) | Personal portfolio site | HTML, CSS, JS |
 
----
+
 
 ## Open to freelance work
 
@@ -80,6 +80,6 @@ backend APIs, ML integrations, and AI-powered products.
 **Contact:** koneti.rajasekhar.ai@email.com
 **LinkedIn:** [linkedin.com/in/rajasekhar-koneti](https://linkedin.com)
 
----
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KONETIRAJASEKHAR562&show_icons=true&theme=default&hide_border=true)
