@@ -60,7 +60,7 @@ using Java, Python, and modern JavaScript frameworks.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+
 
 ## Featured projects
 
