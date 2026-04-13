@@ -19,7 +19,7 @@ Full-stack developer and AI/ML engineer based in Telangana, India.
 I build production-ready web apps, REST APIs, and intelligent systems
 using Java, Python, and modern JavaScript frameworks.
 
----
+
 ## What I build
 
 - **Backend systems** — Spring Boot REST APIs, microservices, MySQL
