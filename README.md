@@ -29,7 +29,7 @@ using Java, Python, and modern JavaScript frameworks.
 - **Data pipelines** — data visualization, integration, and reporting
 - **DevOps-aware** — Docker, Kubernetes, Jenkins CI/CD, Git workflows
 
----
+
 
 ## Tech stack
 
